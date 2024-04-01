@@ -1,0 +1,114 @@
+nav{
+    background-color: #FFC7FF;
+    width: 100%;
+    font-family: ; color: ;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    width: 100%;
+}
+h2{
+    text-align: left;
+    font-family: Verdana;
+    font-size: 19px;
+}
+.Politicas{
+    text-decoration: none;
+    font-family: ; color: ;
+}
+body{
+    background-color: #FFF0F5;
+}
+.Slogan{
+    text-align: left;
+    font-family: ;
+    font-size: 10px; color: ;
+}
+.Profile{
+    width: 45px;
+    height: 45px;
+    border: solid; 1px;
+    border-radius: 38px 38px 38px 38px;
+}
+.Intro{
+    text-align: ;
+    font-family: ; color: ;
+    font-size: ;
+    
+}
+.Instagram{
+    text-decoration: none;
+    padding: 15px 15px 15px 15px;
+    padding-left: 60px;
+}
+.Facebook{
+    text-decoration: none;
+    padding: 15px 15px 15px 15px;
+}
+.TikTok{
+    text-decoration: none;
+    padding: 15px 15px 15px 15px;
+}
+.Rosas{
+    font-family: ;
+    font-size: ; color: ;
+    text-align-last: left;
+    text-decoration: none;
+}
+.li1{
+    text-align: left;
+}
+.Girasoles{
+    font-family: ;
+    font-size: ; color: ;
+    text-align: right;
+    text-decoration: none;
+}
+.li2{
+    text-align: right;
+}
+.Tulipanes{
+    font-family: ;
+    font-size: ; color: ;
+    text-align: left;
+    text-decoration: none;
+}
+.li3{
+    text-align: left;
+}
+.Gerberas{
+    font-family: ;
+    font-size: ; color: ;
+    text-align: right;
+    text-decoration: none;
+}
+.li4{
+    text-align: right;
+}
+.Cajas{
+    font-family: ;
+    font-size: ; color: ;
+    text-align: left;
+    text-decoration: none;
+}
+.li5{
+    text-align: left;
+}
+.Bouquet{
+    font-family: ;
+    font-size: ; color: ;
+    text-align: center;
+    text-decoration: none;
+}
+.li6{
+    text-align: center;
+}
+footer{
+    text-align: center;
+    font-family: ;
+    font-size: ; color: ;
+}
+
+#FFF0F5
+#FFC0CB
+#FFC7FF
