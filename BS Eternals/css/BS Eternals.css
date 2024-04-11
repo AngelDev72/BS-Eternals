@@ -2,10 +2,12 @@ nav{
     background-color: #FFC7FF;
     width: 100%;
     font-family: ; color: ;
-    position: sticky;
+    position: fixed;
     top: 0;
+    left: 0;
     z-index: 1000;
     width: 100%;
+    padding: 5px 5px 5px 5px;
 }
 h2{
     text-align: left;
@@ -25,10 +27,12 @@ body{
     font-size: 10px; color: ;
 }
 .Profile{
-    width: 45px;
-    height: 45px;
+    width: 70px;
+    height: 70px;
     border: solid; 1px;
     border-radius: 38px 38px 38px 38px;
+    align-items: right;
+    margin-top: 20px;
 }
 .Intro{
     text-align: ;
@@ -36,18 +40,20 @@ body{
     font-size: ;
     
 }
-.Instagram{
+a{
     text-decoration: none;
+}
+.Instagram{
     padding: 15px 15px 15px 15px;
     padding-left: 60px;
 }
 .Facebook{
-    text-decoration: none;
+    border-radius: 25px 25px 25px 25px;
     padding: 15px 15px 15px 15px;
 }
 .TikTok{
-    text-decoration: none;
     padding: 15px 15px 15px 15px;
+    border-radius: 25px px 35px;
 }
 .Rosas{
     font-family: ;
