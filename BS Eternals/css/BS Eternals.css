@@ -10,10 +10,14 @@ nav{
     padding: 5px 5px 5px 5px;
 }
 h2{
-    text-align: left;
+    align-items: center;
     font-family: Verdana;
     font-size: 19px;
     margin-top: 30px;
+    text-align: center;
+}
+.h2{
+    align-items: center;
 }
 .Politicas{
     text-decoration: none;
@@ -23,7 +27,6 @@ body{
     background-color: #FFF0F5;
 }
 .Slogan{
-    text-align: left;
     font-family: ;
     font-size: 10px; color: ;
 }
@@ -32,7 +35,6 @@ body{
     height: 70px;
     border: solid; 1px;
     border-radius: 38px 38px 38px 38px;
-    align-items: right;
     margin-top: 20px;
 }
 .Intro{
@@ -44,17 +46,33 @@ body{
 a{
     text-decoration: none;
 }
+.logos{
+    display: flex;
+    justify-content: space-evenly;
+}
 .Instagram{
     padding: 15px 15px 15px 15px;
     padding-left: 60px;
+    align-items: center;
 }
 .Facebook{
     border-radius: 25px 25px 25px 25px;
     padding: 15px 15px 15px 15px;
+    align-items: center;
 }
 .TikTok{
     padding: 15px 15px 15px 15px;
     border-radius: 25px px 35px;
+    align-items: center;
+}
+.Rosas .Tulipanes .Cajas .li1 .li3 .li5{
+    display: flex;
+    flex-direction: column;
+}
+.Girasoles .Gerberas{
+    display: flex;
+    flex-direction: column;
+    
 }
 .Rosas{
     font-family: ;
@@ -62,8 +80,6 @@ a{
     text-align-last: left;
     text-decoration: none;
 }
-.li1{
-    text-align: left;
 }
 .Girasoles{
     font-family: ;
@@ -80,8 +96,6 @@ a{
     text-align: left;
     text-decoration: none;
 }
-.li3{
-    text-align: left;
 }
 .Gerberas{
     font-family: ;
@@ -98,8 +112,6 @@ a{
     text-align: left;
     text-decoration: none;
 }
-.li5{
-    text-align: left;
 }
 .Bouquet{
     font-family: ;
