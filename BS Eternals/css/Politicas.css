@@ -1,0 +1,56 @@
+nav{
+   position: fixed;
+   top: 0;
+   left: 0;
+   width: 100%;
+   font-family: Courier New;
+   font-size: 16px;
+   background-color: #ffc7ff;
+}
+h1{
+    text-align: center;
+    font-family: Courier New;
+}
+p{
+    font-family: Courier New;
+}
+a{
+    text-decoration: none;
+    color: #000000;
+    display: flex;
+    justify-content: flex-start;
+    margin-top: 25px;
+    font-family: Courier New;
+    font-size: 14px;
+}
+body{
+    background-color: #fff0f5;
+}
+footer{
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    font-size: 15px;
+    text-align: center;
+    background-color: #ffc7ff;
+}
+div{
+    margin: 10px 10px 10px 10px;
+}
+.Politicas .enum{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+.e1 .e2 .e3 .e4 .e5 .e6 .e7 .e8{
+    display: flex;
+    list-style: disc inside;
+    align-items: space-evenly;
+    justify-content: space-evenly;
+}
+.e8{
+    margin-bottom: 50px;
+}
+
+#212131

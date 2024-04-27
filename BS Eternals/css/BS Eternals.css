@@ -21,7 +21,8 @@ h2{
 }
 .Politicas{
     text-decoration: none;
-    font-family: ; color: ;
+    font-family: ; color: #000000;
+    margin-left: 20px;
 }
 body{
     background-color: #FFF0F5;
@@ -65,67 +66,77 @@ a{
     border-radius: 25px px 35px;
     align-items: center;
 }
-.Rosas .Tulipanes .Cajas .li1 .li3 .li5{
+.Arreglos{
     display: flex;
+    align-items: space-between;
+    justify-content: space-evenly;
+}
+.Arreglos .A1{
+    display: flex;
+    justify-content: flex-start;
     flex-direction: column;
 }
-.Girasoles .Gerberas{
+.Arreglos .A2{
     display: flex;
+    justify-content: center;
     flex-direction: column;
-    
+}
+.Arreglos .A3{
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: column;
 }
 .Rosas{
     font-family: ;
     font-size: ; color: ;
-    text-align-last: left;
     text-decoration: none;
+    display: flex;
 }
 }
 .Girasoles{
     font-family: ;
     font-size: ; color: ;
-    text-align: right;
     text-decoration: none;
-}
-.li2{
-    text-align: right;
+    display: flex;
+    justify-content: flex-end;
 }
 .Tulipanes{
     font-family: ;
     font-size: ; color: ;
-    text-align: left;
     text-decoration: none;
+    display: flex;
 }
 }
 .Gerberas{
     font-family: ;
     font-size: ; color: ;
-    text-align: right;
     text-decoration: none;
-}
-.li4{
-    text-align: right;
+    display: flex;
+    justify-content: flex-end;
 }
 .Cajas{
     font-family: ;
     font-size: ; color: ;
-    text-align: left;
     text-decoration: none;
+    display: flex;
 }
 }
 .Bouquet{
     font-family: ;
     font-size: ; color: ;
-    text-align: center;
     text-decoration: none;
-}
-.li6{
-    text-align: center;
+    display: flex;
+    justify-content: flex-end;
 }
 footer{
     text-align: center;
     font-family: ;
     font-size: ; color: ;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    background-color: #FFC7FF;
+    width: 100%;
 }
 
 #FFF0F5
